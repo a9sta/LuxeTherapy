@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "ko": "럭스테라피",
+    "en": "LuxeTherapy",
+    "slogan": "동마다 땅을 반으로 가르는 두 직선을 긋고 그 교차점이 경계 상자 중앙에서 벗어난 정도를 안내판에 적어 둔 곳"
+  },
+  "siteUrl": "https://luxetherapy.yovip77.workers.dev",
+  "locale": "ko_KR",
+  "tel": "050-8202-4753",
+  "telRaw": "05082024753",
+  "telLabel": "예약 문의",
+  "hours": "24시간 연중무휴",
+  "pay": "후불제",
+  "arrive": "접수 후 20~40분",
+  "rssTitle": "럭스테라피 반분선 수첩",
+  "business": {
+    "name": "럭스테라피",
+    "owner": "",
+    "regNo": "",
+    "address": "",
+    "privacyOfficer": "",
+    "email": "",
+    "note": "사업자 정보는 확정되는 대로 이 항목만 채우면 푸터·스키마에 함께 반영된다. 비워 두면 해당 줄은 출력하지 않는다."
+  },
+  "coverage": {
+    "main": [
+      "서울",
+      "인천",
+      "경기",
+      "부산"
+    ],
+    "sub": [
+      "대전",
+      "대구",
+      "울산",
+      "광주",
+      "충남",
+      "충북",
+      "강원",
+      "전북",
+      "전남",
+      "경북",
+      "경남"
+    ]
+  },
+  "indexNowKey": "7f572cad82236ed88dbe10b97c69d711",
+  "naverVerification": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "luxetherapy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "럭스테라피 출장마사지 — 동마다 땅을 넓이로 반분하는 두 직선과 그 교차점의 치우침을 계산해 적은 지역 안내 정적 사이트",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node src/build.mjs",
+    "regions": "node --max-old-space-size=4096 scripts/build-regions.mjs",
+    "check": "node scripts/check.mjs",
+    "simil": "node scripts/simil.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}
